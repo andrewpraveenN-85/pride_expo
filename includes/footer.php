@@ -55,15 +55,15 @@ anywhere in Sri Lanka.</p>
     <div class="md:w-1/5 w-full flex flex-col text-sm">
     <a href="./contact_us.php" class="text-[#CFD0CE] text-xl pb-4 flex items-center justify-start hover:rounded-lg hover:text-[#f6b81d]">Contact Us</a>
         <div class="w-full pb-4 space-y-2">
-        <p> SOL GmbH</p>
-        <p>Cell: +49 152 36967869</p>
+        <p>Pride Solutions (Pvt) Ltd</p>
+        <p> Cell: +94 77 727 3888</p>
         </div>
-        <p> E-mail: info@exposol.de</p>
+        <p> E-mail: pridesolutions.sales@gmail.com</p>
         <div class="w-full pt-4 space-y-2">
         <p>Address:</p>
-        <p>Hanauer Landstraße 291B,</p>
-        <p>Frankfurt am Main 60314,</p>
-        <p>Germany.</p>
+        <p>No 30, 1st lane galabodawattha</p>
+        <p>Neyungama, kesbawa.</p>
+        <p>Sri Lanka.</p>
 
         </div>
 
