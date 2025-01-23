@@ -7,7 +7,7 @@
   <!-- Text Overlay -->
   <div class="w-full h-[300px] flex flex-col items-center justify-center bg-black bg-opacity-60 space-y-4">
     <div class="w-auto border-b-2 border-[#f6b81d]">
-    <p class="text-white md:text-6xl text-4xl font-bold montserrat-" style="font-weight: bold;">Our Portfolio</p>
+    <p class="text-white md:text-6xl text-4xl montserrat-" style="font-weight: bold;">Our Portfolio</p>
     </div>
       <p class="text-[#f6b81d] text-xl montserrat-">We would love to hear from you</p>
   </div>
@@ -18,7 +18,7 @@
   class="whatsapp-button fixed bottom-4 left-4 flex items-center z-10 rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 z-10 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -41,7 +41,7 @@
     class="whatsapp-button fixed bottom-40 right-4 z-10 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 montserrat- font-medium">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -67,7 +67,7 @@
   
 </div>
 
-<div class="w-full flex flex-col justify-center items-center py-8 md:px-32 px-8">
+<div class="w-full flex flex-col justify-center items-center montserrat- py-8 md:px-32 px-8">
 <p class=" md:text-2xl text-center"> We are an exhibition stand design and build agency, that promises creative stall designs that respect and deliver within client’s budgets and brand language. 
 Our portfolio will give you a sense of the kind of innovative stall design and fabrication that we have done.
  We have realised custom booths as well as innovated in terms of material usage, graphic printing methods and light engineering. 
@@ -75,7 +75,7 @@ Browse through our work to understand us better, and if you have any queries or 
 
     
 </div>  
-<div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 px-6">
+<div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 px-6 montserrat-">
     <!-- Card 1 -->
     <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-1">
         <img

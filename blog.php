@@ -22,7 +22,7 @@ and design ideas for global expo.</p>
   class="whatsapp-button fixed bottom-4 left-4 flex items-center z-10 rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 z-10 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -45,7 +45,7 @@ and design ideas for global expo.</p>
     class="whatsapp-button fixed bottom-40 right-4 z-10 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 font-medium montserrat-">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -72,23 +72,25 @@ and design ideas for global expo.</p>
 </div>
 
 <div class="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-6 px-8 py-8 md:space-y-0 space-y-4">
-    <div class="w-full flex md:flex-row flex-col">
- <!-- Card 1 -->
- <div class="w-full md:w-1/2 bg-white overflow-hidden relative card">
-        <img
-            src="./assetes/images/bg-2.jpg"
-            alt="Arpico Mattress"
-            class="w-full h-64 object-cover transform transition-transform duration-300 hover:scale-110"
-        />
-        
+<a href="blog1.php" class="block w-full">
+    <div class="w-full flex md:flex-row flex-col cursor-pointer"> 
+        <!-- Card 1 -->
+        <div class="w-full md:w-1/2 bg-white overflow-hidden relative card">
+            <img
+                src="./assetes/images/bg-2.jpg"
+                alt="Arpico Mattress"
+                class="w-full h-64 object-cover transform transition-transform duration-300 hover:scale-110"
+            />
+        </div>
+        <div class="w-full md:w-1/2 flex flex-col justify-center items-center space-y-4 md:px-8 text-align montserrat-">
+            <p class="text-xl font-bold text-[#f6b81d]">How Custom and Modular Stands Transform Presence at Exhibitions</p>
+            <p>It can be challenging to be unique in today’s highly competitive market that is rising with new trends and every exhibitor’s goal is to stand out, connect with their audience and let them leave with a memorable experience. It’s crucial for an exhibitor to accomplish all of the above in the world of exhibitions and trade shows. With every brand competing with each other for attention in mostly overcrowded and overwhelming environments, the ability to capture the attendees attention through a strong visual presence has never been more critical.</p>
+        </div>
     </div>
-    <div class="w-full md:w-1/2 flex flex-col justify-center items-center space-y-4 md:px-8 text-align montserrat-">
-        <p class="text-xl font-bold text-[#f6b81d]">How Custom and Modular Stands Transform Presence at Exhibitions</p>
-        <p>It can be challenging to be unique in today’s highly competitive market that is rising with new trends and every exhibitor’s goal is to stand out, connect with their audience and let them leave with a memorable experience. It’s crucial for an exhibitor to accomplish all of the above in the world of exhibitions and trade shows. With every brand competing with each other for attention in mostly overcrowded and overwhelming environments, the ability to capture the attendees attention through a strong visual presence has never been more critical.</p>
-    </div>
-    </div>
+</a>
 
-    <div class="w-full flex md:flex-row flex-col">
+<a href="blog2.php" class="block w-full">
+    <div class="w-full flex md:flex-row flex-col cursor-pointer">
  <!-- Card 1 -->
  <div class="w-full md:w-1/2 bg-white overflow-hidden relative card">
         <img
@@ -104,8 +106,10 @@ and design ideas for global expo.</p>
         <p>In the earlier ages exhibitions were a staple for promoting products only, but as time passed, exhibitions evolved dynamically! Many businesses view it as an opening engaged with the audience, building communities with lasting connections, gaining knowledge about the industry in a deeper manner, and ofcourse promoting the products or services. Various kinds of exhibition stall models are available. There is a vast option to choose from depending on a company’s requirements.</p>
     </div>
     </div>
-    
-    <div class="w-full flex md:flex-row flex-col">
+    </a>
+    <a href="blog3.php" class="block w-full">
+
+    <div class="w-full flex md:flex-row flex-col cursor-pointer">
  <!-- Card 1 -->
  <div class="w-full md:w-1/2 bg-white overflow-hidden relative card">
         <img
@@ -121,7 +125,23 @@ and design ideas for global expo.</p>
         <p>Dear exhibitors, you surely must’ve seen that expo stand design has revolutionized significantly over the years, shifting from static, dull-looking, functional structures to immersive and experience-driven spaces that captivate audiences and uplift brand visibility. In 2025, the exhibition sector is overflowing with innovations as stand contractors adopt environment-friendly practices, cutting-edge solutions and compelling storytelling to transform the trade show experience.</p>
     </div>
     </div>
-    
+    </a>
+    <a href="blog4.php" class="block w-full">
+    <div class="w-full flex md:flex-row flex-col cursor-pointer"> 
+        <!-- Card 1 -->
+        <div class="w-full md:w-1/2 bg-white overflow-hidden relative card">
+            <img
+                src="./assetes/images/web2.jpg"
+                alt="Arpico Mattress"
+                class="w-full h-64 object-cover transform transition-transform duration-300 hover:scale-110"
+            />
+        </div>
+        <div class="w-full md:w-1/2 flex flex-col justify-center items-center space-y-4 md:px-8 text-align montserrat-">
+            <p class="text-xl font-bold text-[#f6b81d]">Design features that can have a negative impact on Exhibition stand</p>
+            <p>Custom exhibition stands are evolving more than ever before. Exhibition design is becoming more competitive by the minute and everyone wants to be the leader of their industry. The stands which are extremely creative, tend to attract the biggest crowds and the most popular at the event. If you are ready to take the next step on your exhibition booth and really create that ‘wow’ factor here are 5 design elements you should avoid.</p>
+        </div>
+    </div>
+</a>
     <!-- Repeat other cards -->
 </div>
 

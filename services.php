@@ -20,7 +20,7 @@
   class="whatsapp-button fixed bottom-4 left-4 flex items-center z-10 rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 z-10 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -43,7 +43,7 @@
     class="whatsapp-button fixed bottom-40 right-4 z-10 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 font-medium montserrat-">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -66,11 +66,11 @@
 </div>
 </div>
 </div>
-<div class="w-full flex flex-col justify-center items-center py-8 md:px-32">
+<div class="w-full flex flex-col justify-center items-center py-8 md:px-32 montserrat-">
 <p class=" md:text-2xl text-center">  We provide a range of exhibition booth designs including bespoke custom stands,
 modular booths, double-decker stands, portable stands, country pavilion stands and many more.</p>
 </div>
-<div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 px-6">
+<div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 montserrat- px-6">
     <!-- Card 1 -->
     <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-1">
         <img

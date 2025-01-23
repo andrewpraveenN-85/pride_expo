@@ -1,5 +1,5 @@
 <?php include("./includes/header.php"); ?>
-<div class="w-full flex flex-col md:flex-row justify-end items-center md:pr-32 text-white md:space-x-8 bg-[#383838] py-4 montserrat">
+<div class="w-full flex flex-col md:flex-row justify-end items-center md:pr-16 text-white md:space-x-8 bg-[#383838] py-4 montserrat">
     <p class="text-white hover:text-[#f6b81d] cursor-pointer montserrat-" aria-label="Email address">
         <a href="mailto:pridesolutions.sales@gmail.com">pridesolutions.sales@gmail.com</a>
     </p>
@@ -8,7 +8,7 @@
     </p>
 </div>
 
-<div class="w-full md:flex justify-between items-center px-32 md:inline hidden space-x-8 bg-[#1e1e1e] montserrat-">
+<div class="w-full md:flex justify-between items-center px-16 md:inline hidden space-x-8 bg-[#1e1e1e] montserrat-">
 <div class="w-1/3">
         <a href="./index.php"> <!-- Replace with the desired link -->
             <img src="./assetes/images/Pride logo (5).jpg" alt="Icon 1" class="w-auto">
@@ -26,6 +26,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
   <a href="./portfolio.php" class="text-center text-white px-8 flex items-center justify-center h-14 hover:rounded-lg hover:text-[#f6b81d] <?php echo $current_page == 'portfolio.php' ? 'active' : ''; ?>">PORTFOLIO</a>
   <a href="./services.php" class="text-center px-8 text-white flex items-center justify-center h-14 hover:rounded-lg hover:text-[#f6b81d] <?php echo $current_page == 'services.php' ? 'active' : ''; ?>">SERVICES</a>
   <a href="./blog.php" class="text-center px-8 text-white flex items-center justify-center h-14 hover:rounded-lg hover:text-[#f6b81d] <?php echo $current_page == 'blog.php' ? 'active' : ''; ?>">BLOG</a>
+  <a href="./contact_brief.php" class="text-center text-white pr-4 flex items-center justify-center h-14 hover:rounded-lg hover:text-[#f6b81d] <?php echo $current_page == 'contact_brief.php' ? 'active' : ''; ?>">SUBMIT YOUR BRIEF</a>
   <a href="./contact_us.php" class="text-center text-white flex items-center justify-center h-14 hover:rounded-lg hover:text-[#f6b81d] <?php echo $current_page == 'contact_us.php' ? 'active' : ''; ?>">CONTACT</a>
 </div>
 
@@ -108,6 +109,10 @@ $current_page = basename($_SERVER['PHP_SELF']);
       href="./blog.php"
       class="block px-4 py-2 rounded hover:bg-gray-600 hover:text-[#f6b81d]"
     >BLOG</a>
+    <a
+      href="./contact_brief.php"
+      class="block px-4 py-2 rounded hover:bg-gray-600 hover:text-[#f6b81d]"
+    >SUBMIT YOUR BRIEF</a>
     <a
       href="./contact_us.php"
       class="block px-4 py-2 rounded hover:bg-gray-600 hover:text-[#f6b81d]"

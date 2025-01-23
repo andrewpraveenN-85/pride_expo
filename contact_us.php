@@ -21,7 +21,7 @@
   class="whatsapp-button fixed bottom-4 left-4 flex items-center z-10 rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 z-10 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -44,7 +44,7 @@
     class="whatsapp-button fixed bottom-40 right-4 z-10 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 font-medium montserrat-">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -68,13 +68,13 @@
 </div>
 <div class="w-full flex md:flex-row flex-col justify-center items-start md:px-32 px-8">
 <div class="md:w-1/2 w-full flex flex-col justify-center items-center pt-8">
-<h2 class="text-center text-3xl font-bold mb-6" style="font-size: 2.25rem; font-weight: bold;">CONTACT US</h2>
-<p class=" md:text-2xl">stalls that captivate and engage.</p>
+<h2 class="text-center text-3xl font-bold mb-6 montserrat-" style="font-size: 2.25rem; font-weight: bold;">CONTACT US</h2>
+<p class=" md:text-2xl montserrat-">stalls that captivate and engage.</p>
 
 
 
     <div class="w-full mx-auto py-8">
-    <form action="https://api.web3forms.com/submit" method="POST" class="flex flex-col space-y-8">
+    <form action="https://api.web3forms.com/submit" method="POST" class="flex flex-col space-y-8 montserrat-">
         <input type="hidden" name="access_key" value="1f82c699-3a12-4df2-9875-3cbd9eb17c15">
         <input type="hidden" name="page" value="contact">
       
@@ -154,27 +154,19 @@
     </div>
 </div>
 
-<div class="md:w-1/2 w-full flex flex-col justify-center items-start space-y-4 pt-8 md:pl-8 md:pb-0 pb-8">
-    <p class="md:text-3xl text-2xl">COME VISIT OUR WORKPLACE</p>
+<div class="md:w-1/2 w-full flex flex-col justify-center items-start space-y-4 montserrat- pt-8 md:pl-8 md:pb-0 pb-8">
+    <p class="md:text-3xl text-2xl" style="font-size: 2.25rem; font-weight: bold;">COME VISIT OUR WORKPLACE</p>
     <p>Visit us and we would be delighted to welcome you.</p>
     <div class="w-full space-y-4">
-        <p>SOL GMBH EUROPE</p>
+        <p>Pride Solutions (Pvt) Ltd </p>
         <div class="w-full">
-            <p>Hanauer Landstraße 291B,</p>
-            <p>Frankfurt am Main 60314, Germany.</p>
-            <p>Email: info@exposol.de</p>
-            <p>Phone No: +49 152 36967869</p>
+            <p>No 30, 1st lane galabodawattha Neyungama, </p>
+            <p>kesbawa. Sri Lanka.</p>
+            <p>Email:  pridesolutions.sales@gmail.com </p>
+            <p>Phone No: +94 77 727 3888 </p>
         </div>
     </div>
-    <div class="w-full space-y-4">
-        <p>SOL Brand Solutions Inc. USA</p>
-        <div class="w-full">
-            <p>6920 S Cimarron Road,</p>
-            <p>Suite 100, Las Vegas, NV 89113, USA</p>
-            <p>Email: info@exhibitrentals.com</p>
-            <p>Phone No: + 1(702)271-5928</p>
-        </div>
-    </div>
+    
 </div>
 </div>
 <div class="h-[300px]">

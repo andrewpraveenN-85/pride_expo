@@ -6,12 +6,12 @@
         <div id="section1" class="w-full h-full flex-shrink-0 relative" style="background-image: url('./assetes/images/Fort resorts.jpg');">
         <div class="absolute inset-0 bg-black bg-opacity-50 md:w-1/2 h-full"></div>
     <div class="absolute inset-0 z-10 hidden md:flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-02.png" alt="Icon 1" class="w-[400px] h-[180px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-02.png" alt="Icon 1" class="w-[400px] h-[180px]">
     </div>
 
     <div class="absolute inset-0 flex flex-col items-start justify-start md:hidden p-8 space-y-4">
     <div class="absolute inset-0 flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-02.png" alt="Icon 1" class="w-[200px] h-[80px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-02.png" alt="Icon 1" class="w-[200px] h-[80px]">
     </div>
     
     </div>
@@ -21,11 +21,11 @@
         <div id="section2" class="w-full h-full flex-shrink-0 relative" style="background-image: url('./assetes/images/bg4.jpg');">
             <div class="absolute inset-0 bg-black bg-opacity-50 w-1/2 h-full"></div>
             <div class="absolute inset-0 z-10 hidden md:flex flex-col justify-center items-start pl-8 space-y-4">
-              <img src="./assetes/images/Icons-web banner-03.png" alt="Icon 1" class="w-[400px] h-[180px] animate-bounce">
+              <img src="./assetes/images/Icons-web banner-03.png" alt="Icon 1" class="w-[400px] h-[180px]">
             </div>
         <div class="absolute inset-0 z-10 flex flex-col items-start justify-start md:hidden p-8 space-y-4">
         <div class="absolute inset-0 z-10 flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-03.png" alt="Icon 1" class="w-[200px] h-[80px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-03.png" alt="Icon 1" class="w-[200px] h-[80px]">
     </div>
     
     </div>
@@ -35,11 +35,11 @@
         <div id="section3" class="w-full h-full flex-shrink-0 relative" style="background-image: url('./assetes/images/Englander 1.jpg');">
             <div class="absolute inset-0 bg-black bg-opacity-50 w-1/2 h-full"></div>
             <div class="absolute inset-0 z-10 hidden md:flex flex-col justify-center items-start pl-8 space-y-4">
-              <img src="./assetes/images/Icons-web banner-04.png" alt="Icon 1" class="w-[400px] h-[180px] animate-bounce">
+              <img src="./assetes/images/Icons-web banner-04.png" alt="Icon 1" class="w-[400px] h-[180px]">
             </div>
             <div class="absolute inset-0 z-10 flex flex-col items-start justify-start md:hidden p-8 space-y-4">
             <div class="absolute inset-0 z-10 flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-04.png" alt="Icon 1" class="w-[200px] h-[80px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-04.png" alt="Icon 1" class="w-[200px] h-[80px]">
     </div>
     
     </div>
@@ -47,11 +47,11 @@
         <div id="section4" class="w-full h-full flex-shrink-0 relative" style="background-image: url('./assetes/images/bg6.jpg')">
             <div class="absolute inset-0 bg-black bg-opacity-50 w-1/2 h-full"></div>
             <div class="absolute inset-0 z-10 hidden md:flex flex-col justify-center items-start pl-8 space-y-4">
-              <img src="./assetes/images/Icons-web banner-05.png" alt="Icon 1" class="w-[400px] h-[180px] animate-bounce">
+              <img src="./assetes/images/Icons-web banner-05.png" alt="Icon 1" class="w-[400px] h-[180px]">
             </div>
         <div class="absolute inset-0 z-10 flex flex-col items-start justify-start md:hidden p-8 space-y-4">
         <div class="absolute inset-0 z-10 flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-05.png" alt="Icon 1" class="w-[200px] h-[80px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-05.png" alt="Icon 1" class="w-[200px] h-[80px]">
     </div>
     
     </div>
@@ -59,11 +59,11 @@
         <div id="section5" class="w-full h-full flex-shrink-0 relative" style="background-image: url('./assetes/images/3M (1) (1).jpg');">
             <div class="absolute inset-0 bg-black bg-opacity-50 w-1/2 h-full"></div>
             <div class="absolute inset-0 z-10 hidden md:flex flex-col justify-center items-start pl-8 space-y-4">
-              <img src="./assetes/images/Icons-web banner-06.png" alt="Icon 1" class="w-[400px] h-[180px] animate-bounce">
+              <img src="./assetes/images/Icons-web banner-06.png" alt="Icon 1" class="w-[400px] h-[180px]">
             </div>
         <div class="absolute inset-0 z-10 flex flex-col items-start justify-start md:hidden p-8 space-y-4">
         <div class="absolute inset-0 z-10 flex flex-col justify-center items-start pl-8 space-y-4">
-    <img src="./assetes/images/Icons-web banner-06.png" alt="Icon 1" class="w-[200px] h-[80px] animate-bounce">
+    <img src="./assetes/images/Icons-web banner-06.png" alt="Icon 1" class="w-[200px] h-[80px]">
     </div>
     </div>
         </div>
@@ -86,7 +86,7 @@
   class="whatsapp-button fixed bottom-4 left-4 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -109,7 +109,7 @@
     class="whatsapp-button fixed bottom-40 right-4 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 font-medium montserrat-">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -139,7 +139,7 @@ custom-built exhibition stands, as well as modular display stands for convention
  From building complex expo stands to customising small display kits, we can serve you anywhere in Sri Lanka.</p>
 </div>
 <div class="bg-[#383838] montserrat- py-10">
-    <div class="w-full flex justify-center items-center">
+    <div class="w-full flex justify-center items-center ">
     <p class="text-5xl text-[#f6b81d] text-center" style="font-size: 2.25rem; font-weight: bold;">PRIDE EXPO AT A GLANCE</p>
     </div>
   <div class="w-full mx-auto px-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mt-8">
@@ -343,7 +343,7 @@ for making your exhibition booth an experience zone.</p>
     <p class="md:text-xl text-center montserrat-"> Exhibitions in Sri Lanka Especially at BMICH are the one place to see some of the most fabulous exhibition stand designs and executions. 
     Browse through our designs to understand our passion and skills.</p>
    
-    <div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 px-6">
+    <div class="w-full grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-6 montserrat- px-6">
     <!-- Card 1 -->
     <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-1">
         <img
@@ -534,7 +534,7 @@ for making your exhibition booth an experience zone.</p>
     <p class="md:text-xl text-center montserrat-"> We provide a range of exhibition booth designs including bespoke custom stands,
     modular booths, double-decker stands, portable stands, country pavilion stands and many more.</p>
    
-    <div class="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 px-6">
+    <div class="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 px-6 montserrat-">
     <!-- Card 1 -->
     <div class="bg-white overflow-hidden relative cursor-pointer card transform transition-transform duration-300 hover:scale-110">
         <img
@@ -756,7 +756,7 @@ for making your exhibition booth an experience zone.</p>
 </script>
 
 
-<div class="w-full flex flex-col justify-center items-center bg-[#383838] montserrat- space-y-2 py-16">
+<div class="w-full flex flex-col justify-center items-center bg-[#383838] montserrat- space-y-2 py-12">
 <p class="text-5xl text-[#f6b81d] font-bold pb-8" style="font-size: 2.25rem; font-weight: bold;"> TIPS & FAQS</p>
 
 <div class="w-full grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:px-32 px-8">
@@ -779,11 +779,22 @@ for making your exhibition booth an experience zone.</p>
     </div>
     <div class="w-full bg-white p-8 rounded-xl">
     <p class="text-xl text-[#f6b81d]">Exhibitions in 2025</p>
-    <p class="w-full border-b-2 border-black py-4"> Boot Tulln 2025</p>
-    <p class="w-full border-b-2 border-black py-4">Motosalon 2025</p>
-    <p class="w-full border-b-2 border-black py-4">Biocultura Sevilla 2025</p>
-    <p class="w-full border-b-2 border-black py-4">Zagreb Boat Show 2025</p>
-    <p class="w-full border-b-2 border-black py-4"> WWM Global 2025</p>
+    <a href="./blog1.php" class="w-full border-b-2 border-black py-4 block">
+    Boot Tulln 2025
+</a>
+<a href="./blog2.php" class="w-full border-b-2 border-black py-4 block">
+    Motosalon 2025
+</a>
+<a href="./blog3.php" class="w-full border-b-2 border-black py-4 block">
+    Biocultura Sevilla 2025
+</a>
+<a href="https://example.com/zagreb-boat-show-2025" class="w-full border-b-2 border-black py-4 block">
+    Zagreb Boat Show 2025
+</a>
+<a href="https://example.com/wwm-global-2025" class="w-full border-b-2 border-black py-4 block">
+    WWM Global 2025
+</a>
+
     </div>
 </div>
 </div>
@@ -960,8 +971,10 @@ Small Exhibition Booth Designs, Creative Exhibition Stand Designs, Exhibition St
 }
 
 </style>
+
 <script>
     let currentIndex = 0; // Initial index
+    const totalSlides = 5; // Total number of slides
 
     // Function to handle slide and dot color change
     function slideTo(index, dotElement = null) {
@@ -979,11 +992,21 @@ Small Exhibition Booth Designs, Creative Exhibition Stand Designs, Exhibition St
         });
     }
 
-    // Set initial active dot
+    // Function for auto-slide
+    function startAutoSlide() {
+        setInterval(() => {
+            currentIndex = (currentIndex + 1) % totalSlides; // Increment index and loop back to 0
+            slideTo(currentIndex);
+        }, 5000); // Change slides every 5 seconds
+    }
+
+    // Set initial active dot and start auto-slide
     document.addEventListener('DOMContentLoaded', () => {
         slideTo(currentIndex);
+        startAutoSlide();
     });
 </script>
+
 <script>
   function openModal() {
     document.getElementById('modalContainer1').classList.remove('hidden');

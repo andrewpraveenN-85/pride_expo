@@ -7,7 +7,7 @@
 
   <!-- Text Overlay -->
   <div class="w-full h-[300px] flex flex-col items-center justify-center bg-black bg-opacity-40 space-y-8">
-      <p class="text-white md:text-6xl text-4xl montserrat- font-bold">About Us</p>
+      <p class="text-white md:text-6xl text-4xl montserrat-" style="font-weight: bold;">About Us</p>
   </div>
   </div>
   <a 
@@ -17,7 +17,7 @@
   class="whatsapp-button fixed bottom-4 left-4 flex items-center z-10 rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
 >
     <p><i class="ri-whatsapp-line"></i></p>
-    <span class="text-gray-800 font-medium">WhatsApp us</span>
+    <span class="text-gray-800 font-medium montserrat-">WhatsApp us</span>
 </a>
 
 <div class="whatsapp-button fixed bottom-4 right-4 z-10 flex flex-col items-center bg-[#f6b81d] rounded-full shadow-md p-2 cursor-pointer space-y-2">
@@ -40,7 +40,7 @@
     class="whatsapp-button fixed bottom-40 right-4 z-10 flex items-center rounded-full bg-[#f6b81d] shadow-md p-2 space-x-2 cursor-pointer"
     onclick="openModal()"
 >
-    <span class="text-gray-800 font-medium">GET A QUOTE</span>
+    <span class="text-gray-800 font-medium montserrat-">GET A QUOTE</span>
 </div>
 
 <!-- Modal Container -->
@@ -62,7 +62,7 @@
     </div>
 </div>
 </div>
-<div class="w-full flex flex-col justify-center items-center py-8 md:px-32 px-8">
+<div class="w-full flex flex-col justify-center items-center montserrat- py-8 md:px-32 px-8">
 <p class=" md:text-2xl text-center">Pride Expo Solutions is an experienced exhibition stand design and build agency that focuses on brand building via 
 below-the-line marketing platforms. With an experienced and skilled team and a client-centric approach we are experts in 
 custom-built exhibition stands, as well as modular display stands for conventions and conferences. 
@@ -150,7 +150,29 @@ anywhere in Sri Lanka.</p>
         
     </div>
 </div>
-<div class="w-full px-4 py-12 overflow-hidden text-center">
+<div class="w-full bg-[#d2d2d2] py-8 flex flex-col justify-center items-center md:px-32 space-y-4 border-t-4 border-[#f6b81d]">
+<div class="flex justify-center mb-4">
+        <img src="./assetes/images/Web Icons and logos-12.png" class="object-cover h-full">
+      </div>
+    <p class="md:text-4xl text-xl font-bold montserrat- text-center">FREE CONSULTANCY FOR A HOLISTIC SOLUTIONS</p>
+    <p class="md:text-xl text-center montserrat- md:px-0 px-4"> Booked a space at an upcoming expo in Sri Lanka? Looking for someone to guide you through the options when it comes to exhibition stand design and fabrication? 
+We give free consultation to help you understand expo stand solutions like custom stand designs, modular exhibition systems, portable displays and even technology ideas 
+for making your exhibition booth an experience zone.</p>
+        <button
+          type="submit"
+          id="openModal"
+          class="px-6 py-3 montserrat- text-white transform transition-transform duration-300 hover:scale-110 font-medium bg-[#383838] rounded-md hover:from-blue-600 hover:to-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
+          Talk to an expert
+        </button>
+         <!-- Modal Container -->
+    <div id="modalContainer" class="fixed inset-0 z-10 flex justify-center items-center bg-black bg-opacity-50 hidden">
+        <!-- Modal Content -->
+        <div id="modalContent" class="bg-white rounded-lg shadow-lg w-full max-w-lg">
+            <?php include 'contact_popup.php'; ?>
+        </div>
+    </div>
+</div>
+<div class="w-full px-4 py-12 overflow-hidden text-center montserrat-">
   <h3 class="text-sm font-semibold text-blue-500 uppercase montserrat-">Clients Testimonial</h3>
   <h2 class="text-2xl font-bold text-gray-900 mt-2 montserrat-">We Love Our Clients</h2>
   <div class="relative mt-8 w-full overflow-hidden">
@@ -237,28 +259,6 @@ anywhere in Sri Lanka.</p>
       class="pagination-dot w-3 h-3 bg-gray-300 rounded-full shadow-md cursor-pointer"
     ></span>
   </div>
-</div>
-<div class="w-full bg-[#d2d2d2] py-8 flex flex-col justify-center items-center md:px-32 space-y-4 border-t-4 border-[#f6b81d]">
-<div class="flex justify-center mb-4">
-        <img src="./assetes/images/Web Icons and logos-12.png" class="object-cover h-full">
-      </div>
-    <p class="md:text-4xl text-xl font-bold montserrat- text-center">FREE CONSULTANCY FOR A HOLISTIC SOLUTIONS</p>
-    <p class="md:text-xl text-center montserrat- md:px-0 px-4"> Booked a space at an upcoming expo in Sri Lanka? Looking for someone to guide you through the options when it comes to exhibition stand design and fabrication? 
-We give free consultation to help you understand expo stand solutions like custom stand designs, modular exhibition systems, portable displays and even technology ideas 
-for making your exhibition booth an experience zone.</p>
-        <button
-          type="submit"
-          id="openModal"
-          class="px-6 py-3 montserrat- text-white transform transition-transform duration-300 hover:scale-110 font-medium bg-[#383838] rounded-md hover:from-blue-600 hover:to-green-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500">
-          Talk to an expert
-        </button>
-         <!-- Modal Container -->
-    <div id="modalContainer" class="fixed inset-0 z-10 flex justify-center items-center bg-black bg-opacity-50 hidden">
-        <!-- Modal Content -->
-        <div id="modalContent" class="bg-white rounded-lg shadow-lg w-full max-w-lg">
-            <?php include 'contact_popup.php'; ?>
-        </div>
-    </div>
 </div>
 <div class="bg-gray-300 w-full flex flex-col justify-center items-center montserrat- pt-8">
     <h2 class="text-center text-5xl font-bold mb-6 montserrat-" style="font-size: 2.25rem; font-weight: bold;">CONTACT US</h2>
