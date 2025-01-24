@@ -451,7 +451,7 @@ for making your exhibition booth an experience zone.</p>
 </div>
 <div class="w-full flex flex-col justify-center items-center montserrat- space-y-4">
     <p class="md:text-5xl text-xl text-[#BF131F]" style=" font-weight: bold;">OUR CLIENTELE</p>
-<div class="grid grid-cols-2 md:grid-cols-4 gap-0 w-full overflow-hidden md:px-32 px-8">
+<div class="grid grid-cols-3 md:grid-cols-8 gap-0 w-full overflow-hidden md:px-32 px-8">
         <div class="w-full border border-black">
         <img src="./assetes/images/Web Icons and logos-13.png" class="h-full">
         </div>

@@ -71,9 +71,9 @@ anywhere in Sri Lanka.</p>
 
     
 </div>
-<div class="w-full flex flex-col justify-center items-center montserrat- space-y-4 md:pb-0 pb-8">
+<div class="w-full flex flex-col justify-center items-center montserrat- space-y-4 pb-8">
     <p class="text-3xl">OUR CLIENTELE</p>
-<div class="grid grid-cols-2 md:grid-cols-4 gap-0 w-full overflow-hidden md:px-32 px-8">
+<div class="grid grid-cols-3 md:grid-cols-8 gap-0 w-full overflow-hidden md:px-32 px-8">
         <div class="w-full border border-black">
         <img src="./assetes/images/Web Icons and logos-13.png" class="h-full">
         </div>
