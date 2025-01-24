@@ -131,7 +131,7 @@
     </div>
 </div>
 
-<div class="w-full flex flex-col justify-center items-center py-8 space-y-4 montserrat-">
+<div class="w-full flex flex-col justify-center items-center py-8 space-y-4 montserrat- md:px-0 px-4">
 <p class="md:text-4xl text-[#f6b81d] text-center" style=" font-weight: bold;">A ONE-STOP SOLUTION FOR YOUR EXPO STAND IN SRI LANKA</p>
 <p class="text-center md:px-32">Pride Expo Solutions is an experienced exhibition stand design and build agency that focuses on brand building via below-the-line marketing
  platforms. With an experienced and skilled team and a client-centric approach we are experts in 
@@ -159,7 +159,7 @@ custom-built exhibition stands, as well as modular display stands for convention
     </div>
 
     <!-- Creative Department -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-03.png" class="object-cover h-full">
       </div>
@@ -175,7 +175,7 @@ custom-built exhibition stands, as well as modular display stands for convention
     </div>
 
     <!-- End To End Rental Solutions -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-04.png" class="object-cover h-full">
       </div>
@@ -191,7 +191,7 @@ custom-built exhibition stands, as well as modular display stands for convention
     </div>
 
     <!-- Event Solutions -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-05.png" class="object-cover h-full">
       </div>
@@ -451,7 +451,7 @@ for making your exhibition booth an experience zone.</p>
 </div>
 <div class="w-full flex flex-col justify-center items-center montserrat- space-y-4">
     <p class="md:text-5xl text-xl text-[#BF131F]" style=" font-weight: bold;">OUR CLIENTELE</p>
-<div class="grid grid-cols-4 md:grid-cols-8 gap-0 w-full overflow-hidden md:px-32 px-8">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-0 w-full overflow-hidden md:px-32 px-8">
         <div class="w-full border border-black">
         <img src="./assetes/images/Web Icons and logos-13.png" class="h-full">
         </div>

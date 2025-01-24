@@ -190,7 +190,7 @@ modular booths, double-decker stands, portable stands, country pavilion stands a
     </div>
 
     <!-- Creative Department -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white pl-0 md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-03.png" class="object-cover h-full">
       </div>
@@ -206,7 +206,7 @@ modular booths, double-decker stands, portable stands, country pavilion stands a
     </div>
 
     <!-- End To End Rental Solutions -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-04.png" class="object-cover h-full">
       </div>
@@ -222,7 +222,7 @@ modular booths, double-decker stands, portable stands, country pavilion stands a
     </div>
 
     <!-- Event Solutions -->
-    <div class="text-center text-white md:border-l border-white pl-8">
+    <div class="text-center text-white md:border-l border-white md:pl-8">
       <div class="flex justify-center mb-4">
         <img src="./assetes/images/Web Icons and logos-05.png" class="object-cover h-full">
       </div>
@@ -240,7 +240,7 @@ modular booths, double-decker stands, portable stands, country pavilion stands a
 </div>
 <div class="w-full flex flex-col justify-center items-center py-8 montserrat- space-y-4">
 <p class="text-4xl text-[#f6b81d]" style="font-size: 2.25rem; font-weight: bold;">WORK PROCESS</p>
-<p class="md:text-5xl text-4xl text-center md:px-32">Turnkey stand solutions for all your needs</p>
+<p class="md:text-5xl text-xl text-center md:px-32 px-4">Turnkey stand solutions for all your needs</p>
 </div>
 <div class="bg-white py-12 montserrat-">
   <div class="container mx-auto px-6 md:px-12">
