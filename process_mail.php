@@ -81,7 +81,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         'Messages' => [
             [
                 'From' => [
-                    'Email' => 'notifications@PrideExpo.com',
+                    'Email' => 'notifications.prideexpo@gmail.com',
                     'Name' => 'Form Submission'
                 ],
                 'To' => [
