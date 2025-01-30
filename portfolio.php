@@ -137,6 +137,238 @@ Browse through our work to understand us better, and if you have any queries or 
             <p class="font-semibold text-white">3M Stall</p>
         </div>
     </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-7">
+        <img
+            src="./assetes/images/1  27-JanRich Foods Ltd-Maya Products.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">JanRich Foods Ltd-Maya Products</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-8">
+        <img
+            src="./assetes/images/Maxtherm India_Pride Expo, stall exhibition, stall design, exhibition stall builder, stall fabricators (1)web.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Maxtherm India Pvt Ltd</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-9">
+        <img
+            src="./assetes/images/web1  25-Arpico Mattress, at (Hotel Show Colombo 2024).webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Arpico Mattress, at (Hotel Show Colombo 2024)</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-10">
+        <img
+            src="./assetes/images/Pride Expo, stall exhibition, stall design, exhibition stall builder, stall fabricators (2) web.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Lihini Seafoods (Pvt) Ltd</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-11">
+        <img
+            src="./assetes/images/1  23-Tudawe Trading Co (Pvt) Ltd.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Tudawe Trading Co (Pvt) Ltd</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-12">
+        <img
+            src="./assetes/images/web1  22-Fort Resorts_ (Colombo Fort Hotels).webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Fort Resorts_ (Colombo Fort Hotels)</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-13">
+        <img
+            src="./assetes/images/web1 21-FIRE FREEZE FIRE SERVICES ( PVT) LTD.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">FIRE FREEZE FIRE SERVICES ( PVT) LTD</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-14">
+        <img
+            src="./assetes/images/Suleco-2.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">SULECO (PVT) LTD</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-15">
+        <img
+            src="./assetes/images/24 Street -web1.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Twenty Four Street Garments PVT. LTD</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-16">
+        <img
+            src="./assetes/images/ornazone jewellers - web2.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Ornazone Jewellers</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-17">
+        <img
+            src="./assetes/images/Hydepark_0000__CHA0974.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Arpico Mattress Gallery_Hydepark</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-18">
+        <img
+            src="./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (4).webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Zesta Tea Boutique (Tea Verandah), Galle</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-19">
+        <img
+            src="./assetes/images/1  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">3D visuals of Arpico Bedding Solution (kandy katugastota)</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-20">
+        <img
+            src="./assetes/images/Coats Stall 2016-web1.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Coats Thread Exports Pvt. Ltd</p>
+        </div>
+    </div>
+    
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-21">
+        <img
+            src="./assetes/images/Pragmatic International_web1.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Pragmatic International</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-22">
+        <img
+            src="./assetes/images/Fontera Baby and you _web2.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Fontera (Baby and you)</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-23">
+        <img
+            src="./assetes/images/Lanka Pay_web1.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Lanka Pay</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-24">
+        <img
+            src="./assetes/images/Mahawali Stall_web1.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Mahawali</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-25">
+        <img
+            src="./assetes/images/Sala Enterprises_web2.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Sala Enterprises</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-26">
+        <img
+            src="./assetes/images/Omobio (Pvt) Ltd_2web.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Omobio (Pvt) Ltd</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-27">
+        <img
+            src="./assetes/images/VTA 1web.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">VTA</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-28">
+        <img
+            src="./assetes/images/Mankind 1 web.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Mankind</p>
+        </div>
+    </div>
+    <div class="bg-white overflow-hidden cursor-pointer relative group card" data-gallery="gallery-29">
+        <img
+            src="./assetes/images/Russels_web 2.webp"
+            alt="Arpico Mattress"
+            class="w-full h-64 object-cover transform transition-transform duration-300 group-hover:scale-110"
+        />
+        <div class="absolute bottom-0 w-full bg-[#383838] py-4 text-center transition-all duration-300 group-hover:bg-[#505050]">
+            <p class="font-semibold text-white">Russels Tea</p>
+        </div>
+    </div>
+    
     <!-- Repeat other cards -->
 </div>
 
@@ -334,6 +566,175 @@ Small Exhibition Booth Designs, Creative Exhibition Stand Designs, Exhibition St
           "./assetes/images/3M (1)web.jpg",
           "./assetes/images/3M (2) web.jpg",
         ],
+        "gallery-7": [
+            "./assetes/images/1  27-JanRich Foods Ltd-Maya Products.webp",
+            "./assetes/images/2  27-JanRich Foods Ltd-Maya Products.webp",
+            "./assetes/images/3  27-JanRich Foods Ltd-Maya Products.webp",
+            "./assetes/images/4  27-JanRich Foods Ltd-Maya Products.webp",
+
+        ],
+        "gallery-8": [
+            "./assetes/images/Maxtherm India_Pride Expo, stall exhibition, stall design, exhibition stall builder, stall fabricators (1)web.webp",
+            "./assetes/images/Maxtherm India_Pride Expo, stall exhibition, stall design, exhibition stall builder, stall fabricators (2)web.webp",
+            "./assetes/images/Maxtherm India_Pride Expo, stall exhibition, stall design, exhibition stall builder, stall fabricators (3)web.webp",
+
+        ],
+        "gallery-9": [
+            "./assetes/images/web1  25-Arpico Mattress, at (Hotel Show Colombo 2024).webp",
+            "./assetes/images/web2  25-Arpico Mattress, at (Hotel Show Colombo 2024).webp",
+            "./assetes/images/web3  25-Arpico Mattress, at (Hotel Show Colombo 2024).webp",
+            "./assetes/images/web5  25-Arpico Mattress, at (Hotel Show Colombo 2024).webp",
+
+        ],
+        "gallery-10": [
+            "./assetes/images/24 Street -web1.webp",
+            "./assetes/images/24 Street -web2.webp",
+            "./assetes/images/24 Street -web3.webp",
+            "./assetes/images/24 Street -web4.webp",
+
+        ],
+        "gallery-11": [
+            "./assetes/images/1  23-Tudawe Trading Co (Pvt) Ltd.webp",
+            "./assetes/images/2  23-Tudawe Trading Co (Pvt) Ltd.webp",
+            "./assetes/images/3  23-Tudawe Trading Co (Pvt) Ltd.webp",
+
+        ],
+        "gallery-12": [
+            "./assetes/images/web1  22-Fort Resorts_ (Colombo Fort Hotels).webp",
+            "./assetes/images/web2  22-Fort Resorts_ (Colombo Fort Hotels).webp",
+            "./assetes/images/web3  22-Fort Resorts_ (Colombo Fort Hotels).webp",
+            "./assetes/images/web4  22-Fort Resorts_ (Colombo Fort Hotels).webp",
+
+        ],
+        "gallery-13": [
+            "./assetes/images/web1 21-FIRE FREEZE FIRE SERVICES ( PVT) LTD.webp",
+            "./assetes/images/web2 21-FIRE FREEZE FIRE SERVICES ( PVT) LTD.webp",
+            "./assetes/images/web3 21-FIRE FREEZE FIRE SERVICES ( PVT) LTD.webp",
+            "./assetes/images/web4 21-FIRE FREEZE FIRE SERVICES ( PVT) LTD.webp",
+
+        ],
+        "gallery-14": [
+            "./assetes/images/Suleco-1.webp",
+            "./assetes/images/Suleco-2.webp",
+            "./assetes/images/Suleco-3.webp",
+
+        ],
+        "gallery-15": [
+            "./assetes/images/24 Street -web1.webp",
+            "./assetes/images/24 Street -web2.webp",
+            "./assetes/images/24 Street -web3.webp",
+            "./assetes/images/24 Street -web4.webp",
+            "./assetes/images/24 Street -web5.webp",
+            "./assetes/images/24 Street -web6.webp",
+
+        ],
+        "gallery-16": [
+            "./assetes/images/ornazone jewellers - web1.webp",
+            "./assetes/images/ornazone jewellers - web2.webp",
+            "./assetes/images/ornazone jewellers - web3.webp",
+            "./assetes/images/ornazone jewellers - web4.webp",
+            "./assetes/images/ornazone jewellers - web5.webp",
+            "./assetes/images/ornazone jewellers - web6.webp",
+            "./assetes/images/ornazone jewellers - web7.webp",
+            "./assetes/images/ornazone jewellers - web8.webp",
+
+        ],
+        "gallery-17": [
+            "./assetes/images/Hydepark_0000__CHA0974.webp",
+            "./assetes/images/Hydepark_0010__CHA0964.webp",
+            "./assetes/images/Hydepark_0011__CHA0952.webp",
+            "./assetes/images/Hydepark_0013__CHA0950.webp",
+            "./assetes/images/Hydepark_0020__CHA0943.webp",
+            "./assetes/images/Hydepark_0021__CHA0942.webp",
+            "./assetes/images/Hydepark_0026__CHA0937.webp",
+            "./assetes/images/Hydepark_0030__CHA0933.webp",
+
+        ],
+        "gallery-18": [
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (1).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (2).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (3).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (4).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (5).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (6).webp",
+            "./assetes/images/Web-Zesta Tea Boutique (Tea Verandah), Galle (7).webp",
+
+        ],
+        "gallery-19": [
+            "./assetes/images/1  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/2  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/3 14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/4  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/5  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/6  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/7  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/8  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/9  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/10  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/11  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/12  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/13  14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp",
+            "./assetes/images/14-3D visuals of Arpico Bedding Solution (kandy katugastota).webp.",
+
+        ],
+        "gallery-20": [
+            "./assetes/images/Coats Stall 2016-web1.webp",
+            "./assetes/images/Coats Stall 2016-web2.webp",
+
+        ],
+        "gallery-21": [
+            "./assetes/images/Coats Stall 2016-web1.webp",
+            "./assetes/images/Coats Stall 2016-web2.webp",
+
+        ],
+        "gallery-22": [
+            "./assetes/images/Arpico Bedroom Stall _web1.webp",
+            "./assetes/images/Arpico Bedroom Stall _web2.webp",
+            "./assetes/images/Arpico Bedroom Stall _web3.webp",
+            "./assetes/images/Arpico Bedroom Stall _web4.webp",
+
+        ],
+    
+        "gallery-23": [
+            "./assetes/images/Lanka Pay_web1.webp",
+            "./assetes/images/Lanka Pay_web2.webp",
+            "./assetes/images/Lanka Pay_web3.webp",
+            "./assetes/images/Lanka Pay_web3.webp",
+
+        ],
+        "gallery-24": [
+            "./assetes/images/Mahawali Stall_web1.webp",
+            "./assetes/images/Mahawali Stall_web2.webp",
+            "./assetes/images/Mahawali Stall_web3.webp",
+            "./assetes/images/Mahawali Stall_web4.webp",
+
+        ],
+        "gallery-25": [
+            "./assetes/images/Sala Enterprises_web1.webp",
+            "./assetes/images/Sala Enterprises_web2.webp",
+            "./assetes/images/Sala Enterprises_web3.webp",
+            "./assetes/images/Sala Enterprises_web4.webp",
+
+        ],
+        "gallery-26": [
+            "./assetes/images/Omobio (Pvt) Ltd_web.webp",
+            "./assetes/images/Omobio (Pvt) Ltd_2web.webp",
+            "./assetes/images/Omobio (Pvt) Ltd_3web.webp",
+        ],
+        "gallery-27": [
+            "./assetes/images/VTA 1web.webp",
+            "./assetes/images/VTA 2web.webp",
+            "./assetes/images/VTA 3web.webp",
+        ],
+        "gallery-28": [
+            "./assetes/images/Mankind 1 web.webp",
+            "./assetes/images/Mankind 2 web.webp",
+        ],
+        "gallery-29": [
+            "./assetes/images/Russels_web 2.webp",
+            "./assetes/images/Russels-web.webp",
+        ],
+        
     };
 
     let currentGallery = [];
